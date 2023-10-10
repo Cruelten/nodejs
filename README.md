@@ -1,2 +1,2 @@
-# nodejs
+# node.js
 Homework for Netology
